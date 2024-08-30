@@ -52,26 +52,28 @@ Quite a bit still remains.
 #### Instruments
 1. Name and picture
 2. Ability to check-out (Anyone, purely locally with no guarantees, by following a manual process)
-3. Ability to check-out (Admin)
-4. Ability to check-in (Admin)
-5. Ability to track all instruments in each collection
+3. Ability to check-out (Admin, by following a manual process)
+4. Ability to check-in (Admin, by following a manual process)
+5. Ability to track all instruments in each collection, by following a manual process
 
 ## tools
 
-The requirements document, along with three folders full of images were provided to us.
+The requirements document (excerted above), along with three folders full of images were provided to us.
 
-1. Macbook pro running macOS Monterey Version 12.4 (21F79)
-2. Google chrome web browser (through which to download what was given)
-3. Terminal on which a directory was created to receive download
-4. As editor, `vi`
-5. As repository and hosting, GitHub and GitHub pages
+1. WiFi Internet connection provided by the venue
+2. Macbook pro running macOS Monterey Version 12.4 (21F79)
+3. Google chrome web browser (through which to download what was given, and test during development)
+4. Terminal on which a directory was created to receive download and provide `git` repo
+5. As editor, `vi`
+6. As repository and hosting, GitHub and GitHub pages
 
 ## Admin vs Student
 Leaving out authentication, etc., how can I claim any difference between admins and students?
 
-An Admin is anyone to whom I have given commit rights in the GitHub repository.
+An Admin is anyone to whom I have given commit rights in the GitHub repository. See Admin Instructions.
 
 Anyone else (including Students) can view the [`index.html`](https://b1conrad.github.io/mic/) page as provided by GitHub pages.
+It includes instructions for their part of the manual process.
 
 
 
