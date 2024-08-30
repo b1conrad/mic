@@ -63,3 +63,10 @@ input.p[type="checkbox"]:checked ~ div.p {display: block;}
 8. After a few minutes, visit the page to ensure that the new category appears
 9. After you have inserted a new instrument in it, check that the "Instruments" checkbox works
 
+### To delete an instrument
+1. Find the line in the source code that is about that instrument
+2. Delete the entire line
+3. Commit your changes
+4. After a few minutes, visit to page to ensure that the instrument is no longer listed
+
+
