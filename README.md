@@ -23,7 +23,7 @@ This project was the work of one afternoon on August 29, 2024 between 1 and 3 p.
 10. Show calendar of when instruments are checked out/available
 11. Make sure the website never goes down.
 12. Make sure that everything is backed up both physically and to the cloud.
-13. Make sure that there are not improper redundancies in place.
+13. Make sure that there are no improper redundancies in place.
 
 #### Instruments
 1. Name, description, quantity, price and picture
@@ -58,7 +58,7 @@ Quite a bit still remains.
 
 ## tools
 
-The requirements document (excerted above), along with three folders full of images were provided to us.
+The requirements document (excerpted above), along with three folders full of images were provided to us.
 
 1. WiFi Internet connection provided by the venue
 2. Macbook pro running macOS Monterey Version 12.4 (21F79)
