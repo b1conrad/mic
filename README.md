@@ -4,7 +4,7 @@ Music Intrument Checkout
 
 ## origin
 
-This project was the work of the afternoon of August 29, 2024 between 1 and 3 p.m.
+This project was the work of one afternoon on August 29, 2024 between 1 and 3 p.m.
 
 ## requirement
 
@@ -71,7 +71,7 @@ Leaving out authentication, etc., how can I claim any difference between admins 
 
 An Admin is anyone to whom I have given commit rights in the GitHub repository.
 
-Anyone else (including Students) can view the `index.html` page as provided by GitHub pages.
+Anyone else (including Students) can view the [`index.html`](https://b1conrad.github.io/mic/) page as provided by GitHub pages.
 
 
 
