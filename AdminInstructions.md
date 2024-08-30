@@ -46,18 +46,18 @@ All admin functions will be done by editing this page in the repo and committing
 4. Choose a new lower-case letter for the category (shown here as "p")
 5. At that point in the source code, add these HTML tags (replacing the category name and letter throughout):
 
-```html
-<h2>Percussion\</h2>
-<input class="p" type="checkbox">Instruments
-<div class="p">
-</div>
-```
+    ```html
+    <h2>Percussion\</h2>
+    <input class="p" type="checkbox">Instruments
+    <div class="p">
+    </div>
+    ```
 
 6. Near the top of the source code, locate lines like the one shown below (within a `<style>` tag) and insert a new line, changing the new category letter from "p" to the new category letter, in two places:
 
-```
-input.p[type="checkbox"]:checked ~ div.p {display: block;}
-```
+    ```
+    input.p[type="checkbox"]:checked ~ div.p {display: block;}
+    ```
 
 7. Commit your changes
 8. After a few minutes, visit the page to ensure that the new category appears
@@ -67,6 +67,6 @@ input.p[type="checkbox"]:checked ~ div.p {display: block;}
 1. Find the line in the source code that is about that instrument
 2. Delete the entire line
 3. Commit your changes
-4. After a few minutes, visit to page to ensure that the instrument is no longer listed
+4. After a few minutes, visit the page to ensure that the instrument is no longer listed
 
 
