@@ -45,16 +45,20 @@ All admin functions will be done by editing this page in the repo and committing
 3. Choose a name for the category (shown here as "Percussion")
 4. Choose a new lower-case letter for the category (shown here as "p")
 5. At that point in the source code, add these HTML tags (replacing the category name and letter throughout):
+
 ```
-<h2>Percussion</h2>
-<input class="p" type="checkbox">Instruments
-<div class="p">
-</div>
+&lt;h2>Percussion&lt;/h2>
+&lt;input class="p" type="checkbox">Instruments
+&lt;div class="p">
+&lt;/div>
 ```
+
 6. Near the top of the source code, locate lines like the one shown below (within a `<style>` tag) and insert a new line, changing the new category letter from "p" to the new category letter, in two places:
+
 ```
 input.p[type="checkbox"]:checked ~ div.p {display: block;}
 ```
+
 7. Commit your changes
 8. After a few minutes, visit the page to ensure that the new category appears
 9. After you have inserted a new instrument in it, check that the "Instruments" checkbox works
