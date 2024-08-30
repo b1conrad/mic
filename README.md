@@ -70,7 +70,7 @@ The requirements document (excerpted above), along with three folders full of im
 ## Admin vs Student
 Leaving out authentication, etc., how can I claim any difference between admins and students?
 
-An Admin is anyone to whom I have given commit rights in the GitHub repository. See Admin Instructions.
+An Admin is anyone to whom I have given commit rights in the GitHub repository. See [Admin Instructions](https://b1conrad.github.io/mic/AdminInstructions.html).
 
 Anyone else (including Students) can view the [`index.html`](https://b1conrad.github.io/mic/) page as provided by GitHub pages.
 It includes instructions for their part of the manual process.
