@@ -47,10 +47,10 @@ All admin functions will be done by editing this page in the repo and committing
 5. At that point in the source code, add these HTML tags (replacing the category name and letter throughout):
 
 ```
-&#8918;h2>Percussion&#8918;/h2>
-&#8918;input class="p" type="checkbox">Instruments
-&#8918;div class="p">
-&#8918;/div>
+\<h2>Percussion\</h2>
+\<input class="p" type="checkbox">Instruments
+\<div class="p">
+\</div>
 ```
 
 6. Near the top of the source code, locate lines like the one shown below (within a `<style>` tag) and insert a new line, changing the new category letter from "p" to the new category letter, in two places:
